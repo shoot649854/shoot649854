@@ -6,6 +6,9 @@ Hi everyone. I would call myself a Machine Learning engineer and so I am good at
 - 💞️ I’m looking to collaborate on ... Hackathon! and CTF!
 - 📫 How to reach me ... LinkedIn and my gmail! 
 
+- 💯 Machine Learning, Data Science, Web Application, Cybersecurity & information security, Automation
+- ✍  Python, C++, Java
+- 📖 Numpy, Pandas, Selenium, Tensorflow, Keras, matplotlib, Flask, streamlit 
 
 
 
