@@ -10,12 +10,14 @@
 
 
 <!--  -->
+<!-- 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shoot649854" alt="shoot649854" />
   </a>
 </p> 
 
+-->
 
 ![profile1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoot649854&theme=nord_dark)
 
