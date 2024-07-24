@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shoto Morisaki</h1>
-<h3 align="center">B.S. in CompSci UCSC</h3>
-
 [![Github-Badge](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow)](https://github.com/shoot649854) <img src="https://komarev.com/ghpvc/?username=shoot649854" />
--
+
 - 🔭 I’m currently working on [AEIA Lab](https://aiea-lab.github.io/) 
 - 👨‍💻 All of my projects are available at [portfolio](https://shoto-blog.vercel.app/) 
-- 📝 I regularly write articles on [project page](https://shoto-blog.vercel.app/article) 
-- 📄 Know about my experiences on [project page](https://shoto-blog.vercel.app/project) 
+
+<!--  - 📝 I regularly write articles on [project page](https://shoto-blog.vercel.app/article) -->
+<!--  - 📄 Know about my experiences on [project page](https://shoto-blog.vercel.app/project) -->
 
 
 <!--  -->
@@ -25,14 +23,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoot649854&show_icons=true&locale=en&layout=compact" alt="shoot649854" />
 </p>
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoot649854&show_icons=true&locale=en" alt="shoot649854" />
-</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shoto-morisaki-93b0a71bb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoto-morisaki-93b0a71bb" height="30" width="40" />
-  </a>
 </p>
 
 <!--  -->
