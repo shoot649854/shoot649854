@@ -3,30 +3,16 @@
 - 🔭 I’m currently working on [AEIA Lab](https://aiea-lab.github.io/) 
 - 👨‍💻 All of my projects are available at [portfolio](https://shoto-blog.vercel.app/) 
 
-<!--  - 📝 I regularly write articles on [project page](https://shoto-blog.vercel.app/article) -->
-<!--  - 📄 Know about my experiences on [project page](https://shoto-blog.vercel.app/project) -->
+
+<!-- Statistics and numbers -->
+<div style="text-align: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoot649854" alt="profile1">
+</div>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoot649854&show_icons=true&locale=en&layout=compact" alt="shoot649854" /></p> -->
+<!-- <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoot649854&show_icons=true&locale=en" alt="shoot649854" /></p> -->
 
 
-<!--  -->
-<!-- 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shoot649854" alt="shoot649854" />
-  </a>
-</p> 
-
--->
-
-![profile1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoot649854&theme=nord_dark)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoot649854&show_icons=true&locale=en&layout=compact" alt="shoot649854" />
-</p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoot649854&show_icons=true&locale=en" alt="shoot649854" />
-</p>
-
-<!--  -->
-
+<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
