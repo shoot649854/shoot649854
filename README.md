@@ -76,7 +76,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 </a>
 <a  name="nextjs" href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+  <img src="https://nextjs.org/favicon.ico" alt="nextjs" width="40" height="40" />
 </a>
 <a  name="svelte" href="https://svelte.dev" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" />
@@ -91,7 +91,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
 </a>
 <a  name="flask" href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="120" height="40" />
+  <img src="https://flask.palletsprojects.com/en/stable/_static/shortcut-icon.png" alt="flask" width="40" height="40" />
 </a>
 <a  name="fastapi" href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40" />
